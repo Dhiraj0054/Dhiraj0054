@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Dhiraj Joshi
-- 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning Css and Java script
-- 📫 How to reach me .7906410954
-gmail- dhirajjoshi4580@gmail.com
+- 👋 Hi, I’m Dhiraj Joshi .
+- 👀 I’m interested in web devlopment .
+- 🌱 I’m currently learning Css and Java script .
+- 📫 How to reach me Contact no.7906410954
+gmail- dhirajjoshi4580@gmail.com .
 
 <!---
 Dhiraj0054/Dhiraj0054 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
