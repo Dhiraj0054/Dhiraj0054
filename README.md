@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dhiraj0054
+- 👋 Hi, I’m Dhiraj Joshi
 - 👀 I’m interested in web devlopment
 - 🌱 I’m currently learning Css and Java script
 - 📫 How to reach me .7906410954
