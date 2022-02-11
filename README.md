@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dhiraj Joshi .
 - 👀 I’m interested in web devlopment .
 - 🌱 I’m currently learning Css and Java script .
-- 📫 How to reach me Contact no.7906410954
+- 📫 How to reach me Contact no.-7906410954
 gmail- dhirajjoshi4580@gmail.com .
 
 <!---
